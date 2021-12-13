@@ -1,0 +1,53 @@
+*{
+margin: 0;
+padding: 0;
+box-sizing: border-box;
+
+}
+#header{
+width: 100%;
+float: left;
+background: #020412;
+color: #fff;
+position:relative;
+}
+.container{
+width: 90%;
+margin: 0 auto;
+
+}
+.logo-part{
+width: 20%;
+float: left;
+}
+.logo-part img{
+width: 200px;
+height: 225px;
+}
+.menu-part{
+    width: 30%;
+    float: left;
+
+}
+.search-part{
+width: 50%;
+float: left;
+}
+/*hero part*/
+.hero{
+    width: 100%;
+    float: left;
+    background-color: #020412;
+}
+.Writing-part{
+    width: 80%;
+    float: left;
+
+}
+.img-part{
+width: 20%;
+float: left;
+}
+p,h1{
+    background-color: fuchsia;
+}
